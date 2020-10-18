@@ -1,7 +1,8 @@
 
+
 # Import modules
 
-import turtle
+from turtle import*
 
 
 # Create a screen
